@@ -7,17 +7,16 @@ permalink: /:title
 encoding: UTF-8
 gems: [jekyll-paginate]
 
-title: Github Blog Template
-url: http://litaotao.github.io
+title: winglau14 github
+url: http://winglau14.github.io
 feed: /atom.xml
-author_info: <a href="http://litaotao.github.io/">taotaoli</a>
+author_info: <a href="http://winglau14.github.io/">winglau14</a>
 
 myblog:
-  gavatar: images/2.jpg
-  gpname: litaotao
-  linkedin: http://www.linkedin.com/in/taotaoli
-  github: https://github.com/litaotao
-  email: mailto:taotao.engineer@gmail.com
+  gavatar: https://avatars2.githubusercontent.com/u/6297316?v=3&u=6f32fd12252850eb270da3b1532af7a004486b23&s=40
+  gpname: winglau14
+  github: https://github.com/winglau14
+  email: mailto:397069329@qq.com
   coverimgs: []
   postbgimg: []
 
